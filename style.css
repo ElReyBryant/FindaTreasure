@@ -1,0 +1,22 @@
+h1 {
+    color: #f1f1f1;
+}
+body {
+        background-color: #4473ff ;
+ }
+
+ .nav-List {
+                list-style-type: none;
+                margin-left: 0px;
+                padding: 0px;
+
+            }
+
+            .nav-item {
+                display: inline-block;
+                margin-right: 15px;
+
+            }
+
+
+
